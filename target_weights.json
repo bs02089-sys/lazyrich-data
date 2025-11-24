@@ -1,8 +1,13 @@
 {
-  "updated": "2025-11-24 09:28:55",
-  "QQQM_target_weight": 0.7,
-  "QQQM_current_price": 241.11,
-  "IAUM_target_weight": 0.3,
-  "IAUM_current_price": 40.63,
-  "note": "자동 업데이트 완료 - 구글 시트 IMPORTJSON으로 불러가세요"
+  "date": "2025-11-23",
+  "regime": "Strong Bull",
+  "target_weights": {
+    "QQQM": 0.9,
+    "IAUM": 0.1
+  },
+  "prices": {
+    "QQQM": 242.92,
+    "IAUM": 40.54
+  },
+  "note": "LazyRich 자동 리밸런싱 완료 - 구글 시트 전용"
 }
